@@ -101,8 +101,7 @@ def main():
     elif menu_num == '6':
         update_phone_num()
     elif menu_num == '7':
-        print(delete_application())
-
+        delete_application()
 
 
 if __name__ == '__main__':
